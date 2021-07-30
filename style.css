@@ -5,7 +5,7 @@
 }
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(https://hitchhikers.github.io.git/background.jpg);
+    url("https://github.com/kd1995-max/hitchhikers.github.io/blob/df786df4d2e72e3970dd654c0785688028d9bae6/background.jpg");
   height: 100vh;
   background-size: cover;
   background-position: center;
